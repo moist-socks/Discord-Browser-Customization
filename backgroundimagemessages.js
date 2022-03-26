@@ -10,4 +10,5 @@ Send a message of the image you want for your background. Then click on that ima
   var a = document.querySelector('.chatContent-3KubbW');
   var b = prompt("The message link you copied before running this script","");
   a.style.backgroundImage = "url("+b+")";
+  a.style.backgroundSize: "cover";
 })();
