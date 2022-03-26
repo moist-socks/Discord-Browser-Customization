@@ -1,6 +1,5 @@
 /* 
 IMPORTANT HOW TO USE
-DON'T COPY THIS PART
 
 Send a message of the image you want for your background. Then click on that image. Right click once the image is enlarged. Click copy image link. Once you do that run this script
 
