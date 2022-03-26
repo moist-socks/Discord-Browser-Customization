@@ -1,5 +1,1 @@
-(function() {
-  var a = prompt("Hex code of color",""); 
-  var b = document.querySelector('.chatContent-3KubbW'); 
-  a.style.backgroundColor = a;
-})();
+(function(){var a = document.querySelector('.chatContent-3KubbW');var b = prompt("Hex code of color (include #)","");a.style.backgroundColor = b;})();
