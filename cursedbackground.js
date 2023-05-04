@@ -7,7 +7,7 @@ Send a message of the image you want for your background. Then click on that ima
 
 (function() {
   var a = document.querySelector('.erd_scroll_detection_container');
-  var b = prompt("The message link you copied before running this script","");
+  var b = prompt("Image link: ","");
   a.style.backgroundImage = "url("+b+")";
   a.style.backgroundSize = "cover";
 })();
